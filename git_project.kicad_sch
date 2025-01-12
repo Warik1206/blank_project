@@ -389,10 +389,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f21")
+			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f22")
 		)
 		(pin "2"
-			(uuid "56ae08c7-694d-4662-8297-0511a3adedcb")
+			(uuid "56ae08c7-694d-4662-8297-0511a3adedcc")
 		)
 		(instances
 			(project ""
@@ -529,10 +529,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2e2ea0dd-341d-4780-adde-af644a648930")
+			(uuid "2e2ea0dd-341d-4780-adde-af644a648931")
 		)
 		(pin "2"
-			(uuid "14a99064-b905-430f-915a-1237e6d88ddb")
+			(uuid "14a99064-b905-430f-915a-1237e6d88ddc")
 		)
 		(instances
 			(project ""
@@ -599,10 +599,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f21")
+			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f23")
 		)
 		(pin "2"
-			(uuid "56ae08c7-694d-4662-8297-0511a3adedcb")
+			(uuid "56ae08c7-694d-4662-8297-0511a3adedcd")
 		)
 		(instances
 			(project ""
@@ -669,15 +669,85 @@
 			)
 		)
 		(pin "1"
-			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f21")
+			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f24")
 		)
 		(pin "2"
-			(uuid "56ae08c7-694d-4662-8297-0511a3adedcb")
+			(uuid "56ae08c7-694d-4662-8297-0511a3adedce")
 		)
 		(instances
 			(project ""
 				(path "/001d275d-8048-4d2d-a133-97f829563c07"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 71.12 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af31a1aa-1d7a-4406-849e-e703d863b0a1")
+		(property "Reference" "R6"
+			(at 73.66 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 73.66 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.342 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "674b8b9a-c6a7-4859-bf96-34abe1a3ad04")
+		)
+		(pin "2"
+			(uuid "56c5c03a-f06c-4321-b0e9-5c3dc6b31184")
+		)
+		(instances
+			(project "git_project"
+				(path "/001d275d-8048-4d2d-a133-97f829563c07"
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -739,10 +809,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2e2ea0dd-341d-4780-adde-af644a648930")
+			(uuid "2e2ea0dd-341d-4780-adde-af644a648932")
 		)
 		(pin "2"
-			(uuid "14a99064-b905-430f-915a-1237e6d88ddb")
+			(uuid "14a99064-b905-430f-915a-1237e6d88ddd")
 		)
 		(instances
 			(project ""
@@ -809,10 +879,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2e2ea0dd-341d-4780-adde-af644a648930")
+			(uuid "2e2ea0dd-341d-4780-adde-af644a648933")
 		)
 		(pin "2"
-			(uuid "14a99064-b905-430f-915a-1237e6d88ddb")
+			(uuid "14a99064-b905-430f-915a-1237e6d88dde")
 		)
 		(instances
 			(project ""
@@ -879,10 +949,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f21")
+			(uuid "54ad0d8b-1465-4d71-8238-56ab51772f25")
 		)
 		(pin "2"
-			(uuid "56ae08c7-694d-4662-8297-0511a3adedcb")
+			(uuid "56ae08c7-694d-4662-8297-0511a3adedcf")
 		)
 		(instances
 			(project ""
@@ -949,10 +1019,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2e2ea0dd-341d-4780-adde-af644a648930")
+			(uuid "2e2ea0dd-341d-4780-adde-af644a648934")
 		)
 		(pin "2"
-			(uuid "14a99064-b905-430f-915a-1237e6d88ddb")
+			(uuid "14a99064-b905-430f-915a-1237e6d88ddf")
 		)
 		(instances
 			(project ""
